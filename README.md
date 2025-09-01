@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://dev.to/jiysea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jiysea" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jon-chryst-campos-296584361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jon chryst campos" height="30" width="40" /></a>
-<a href="https://fb.com/jon chryst campos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jon chryst campos" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jiysea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jon chryst campos" height="30" width="40" /></a>
 <a href="https://instagram.com/jiyseapog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jiyseapog" height="30" width="40" /></a>
 <a href="hhttps://www.youtube.com/@jiysea" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jiysea" height="30" width="40" /></a>
 </p>
